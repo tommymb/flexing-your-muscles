@@ -29,6 +29,19 @@ img {
   color: #005e76;
 }
 
+.footer ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.footer a {
+  color: #003442;
+}
+
+.social {
+  display: flex;
+}
+
 .social > li {
   width: 3em;
 }
